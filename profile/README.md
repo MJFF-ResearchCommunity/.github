@@ -17,4 +17,4 @@ The DCoP aims to bring together individuals so that through knowledge sharing wi
   - be inspired by new research topics
   - expand your collaborative networks
 
-### For more information, please contact: researchcommunity@michaeljfox.org. rcop.michaeljfox.org
+#### For more information, please contact: researchcommunity@michaeljfox.org.
