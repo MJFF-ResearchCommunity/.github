@@ -4,7 +4,7 @@ MJFF is seeking to foster an inclusive community of research data users who can 
 
 ## Who is the community for?
 
-The DCoP is currently in a pilot phase. Ultimately, the DCoP will be accessible to anyone with an interest in Parkinson's Disease datasets. Community participants will not be required to have pre-existing access to data, a specific technical background, or MJFF research funding, nor would participation be restricted to a specific data set or type. A neurologist from New York is as valued as a biostatistician from Beijing or a geneticist from Ghana.
+Community participants will not be required to have pre-existing access to data, a specific technical background, or MJFF research funding, nor would participation be restricted to a specific data set or type. A neurologist from New York is as valued as a biostatistician from Beijing or a geneticist from Ghana.
 
 ## What might DCoP members achieve together?
 
@@ -18,3 +18,4 @@ The DCoP aims to bring together individuals so that through knowledge sharing wi
   - expand your collaborative networks
 
 #### For more information, please contact: researchcommunity@michaeljfox.org.
+#### To join or browse our community forum, please visit: http://rcop.michaeljfox.org
